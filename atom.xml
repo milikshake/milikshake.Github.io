@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://milikshake.github.io</id>
     <title>milikshake</title>
-    <updated>2020-12-12T02:18:02.746Z</updated>
+    <updated>2020-12-12T02:22:26.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://milikshake.github.io"/>
     <link rel="self" href="https://milikshake.github.io/atom.xml"/>
@@ -12,19 +12,20 @@
     <rights>All rights reserved 2020, milikshake</rights>
     <entry>
         <title type="html"><![CDATA[C#]]></title>
-        <id>https://milikshake.github.io/post/how-to-creat-a-blogchi-xu-geng-xin/</id>
-        <link href="https://milikshake.github.io/post/how-to-creat-a-blogchi-xu-geng-xin/">
+        <id>https://milikshake.github.io/post/C#/</id>
+        <link href="https://milikshake.github.io/post/C#/">
         </link>
         <updated>2020-12-10T11:06:52.000Z</updated>
         <summary type="html"><![CDATA[<p>与  &amp;&amp;  //真 + 真 = 真     假 + 真 = 假      假 + 假 = 假<br>
 或  ||  //真 + 真 = 真     假 + 真 = 真      假 + 假  = 假<br>
-非  !  //</p>
+非  !  <!-- more --><br>
+bool example = !true<br>
+example = false</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>与  &amp;&amp;  //真 + 真 = 真     假 + 真 = 假      假 + 假 = 假<br>
 或  ||  //真 + 真 = 真     假 + 真 = 真      假 + 假  = 假<br>
-非  !  //</p>
-<!-- more -->
-<p>bool example = !true<br>
+非  !  <!-- more --><br>
+bool example = !true<br>
 example = false</p>
 <!-- more -->
 ]]></content>
