@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://milikshake.github.io</id>
     <title>milikshake</title>
-    <updated>2020-12-21T09:56:37.693Z</updated>
+    <updated>2021-02-06T15:41:31.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://milikshake.github.io"/>
     <link rel="self" href="https://milikshake.github.io/atom.xml"/>
     <subtitle>我只愿面朝大海，春暖花开</subtitle>
     <logo>https://milikshake.github.io/images/avatar.png</logo>
     <icon>https://milikshake.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, milikshake</rights>
+    <rights>All rights reserved 2021, milikshake</rights>
+    <entry>
+        <title type="html"><![CDATA[U3D独立游戏开发记录]]></title>
+        <id>https://milikshake.github.io/post/u3d-du-li-you-xi-kai-fa-ji-lu/</id>
+        <link href="https://milikshake.github.io/post/u3d-du-li-you-xi-kai-fa-ji-lu/">
+        </link>
+        <updated>2021-02-06T15:37:50.000Z</updated>
+        <content type="html"><![CDATA[<p>2.1开始界面建模完成，着手制作背景渐变效果</p>
+<p>2.2研究背景渐变效果</p>
+<p>2.3背景渐变效果制作完毕，着手制作物体面向鼠标效果</p>
+<p>2.4研究标题面向鼠标效果</p>
+<p>2.5研究标题面向鼠标效果</p>
+<p>2.6制作物标题面向鼠标效果失败，制作标题特效</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泰拉瑞亚工具]]></title>
         <id>https://milikshake.github.io/post/tai-la-rui-ya-gong-ju/</id>
