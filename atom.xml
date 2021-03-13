@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://milikshake.github.io</id>
+    <id>https://www.milikshake.com</id>
     <title>milikshake</title>
-    <updated>2021-02-07T13:18:52.511Z</updated>
+    <updated>2021-03-13T13:28:06.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://milikshake.github.io"/>
-    <link rel="self" href="https://milikshake.github.io/atom.xml"/>
+    <link rel="alternate" href="https://www.milikshake.com"/>
+    <link rel="self" href="https://www.milikshake.com/atom.xml"/>
     <subtitle>我只愿面朝大海，春暖花开</subtitle>
-    <logo>https://milikshake.github.io/images/avatar.png</logo>
-    <icon>https://milikshake.github.io/favicon.ico</icon>
+    <logo>https://www.milikshake.com/images/avatar.png</logo>
+    <icon>https://www.milikshake.com/favicon.ico</icon>
     <rights>All rights reserved 2021, milikshake</rights>
     <entry>
         <title type="html"><![CDATA[U3D独立游戏开发记录]]></title>
-        <id>https://milikshake.github.io/post/u3d-du-li-you-xi-kai-fa-ji-lu/</id>
-        <link href="https://milikshake.github.io/post/u3d-du-li-you-xi-kai-fa-ji-lu/">
+        <id>https://www.milikshake.com/post/u3d-du-li-you-xi-kai-fa-ji-lu/</id>
+        <link href="https://www.milikshake.com/post/u3d-du-li-you-xi-kai-fa-ji-lu/">
         </link>
         <updated>2021-02-06T15:37:50.000Z</updated>
         <content type="html"><![CDATA[<p>2.1开始界面建模完成，着手制作背景渐变效果</p>
 <p>2.2研究背景渐变效果</p>
-<p>2.3背景渐变效果制作完毕，着手制作物体面向鼠标效果</p>
+<p>2.3背景渐变效果完成，着手制作物体面向鼠标效果</p>
 <p>2.4研究标题面向鼠标效果</p>
 <p>2.5研究标题面向鼠标效果</p>
 <p>2.6制作物标题面向鼠标效果失败，制作标题特效</p>
-<p>2.7添加了DOTween插件，成功利用DOTween优化大部分代码及完成标题Scale呼吸灯特效.</p>
+<p>2.7成功利用DOTween插件优化大部分代码及完成标题特效.</p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[泰拉瑞亚工具]]></title>
-        <id>https://milikshake.github.io/post/tai-la-rui-ya-gong-ju/</id>
-        <link href="https://milikshake.github.io/post/tai-la-rui-ya-gong-ju/">
+        <id>https://www.milikshake.com/post/tai-la-rui-ya-gong-ju/</id>
+        <link href="https://www.milikshake.com/post/tai-la-rui-ya-gong-ju/">
         </link>
         <updated>2020-12-21T09:42:45.000Z</updated>
         <content type="html"><![CDATA[<p>泰拉瑞亚下载:</p>
@@ -41,8 +41,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[C#]]></title>
-        <id>https://milikshake.github.io/post/C#/</id>
-        <link href="https://milikshake.github.io/post/C#/">
+        <id>https://www.milikshake.com/post/C#/</id>
+        <link href="https://www.milikshake.com/post/C#/">
         </link>
         <updated>2020-12-10T11:06:52.000Z</updated>
         <summary type="html"><![CDATA[<p>与  &amp;&amp;  //真 + 真 = 真     假 + 真 = 假      假 + 假 = 假<br>
